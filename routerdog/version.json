@@ -1,0 +1,14 @@
+{
+    "web": {
+        "version": "0.0.1",
+        "dowanloadUrl": ""
+    },
+    "ios": {
+        "version": "0.0.1",
+        "dowanloadUrl": ""
+    },
+    "android": {
+        "version": "0.0.1",
+        "dowanloadUrl": ""
+    }
+}
